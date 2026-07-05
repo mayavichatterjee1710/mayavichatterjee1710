@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=40&height=120&duration=4000&pause=2000&color=C77DFF;48CAE4;FF70A6&center=true&vCenter=true&width=1000&lines=Translating+starlight+into+software...;Exploring+the+cosmic+web+through+code...;Lost+in+deep+space+data+and+simulations..." alt="Shifting Nebula Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=40&height=120&duration=4000&pause=2000&color=C77DFF&center=true&vCenter=true&width=1000&lines=Translating+starlight+into+software...;Exploring+the+cosmic+web+through+code...;Lost+in+deep+space+data+and+simulations..." alt="Shifting Nebula Banner" />
 </div>
 
 ---
@@ -12,11 +12,13 @@
 ---
 
 ### 🔭 · ゚ : * ✧ STELLAR TECH STACK ✧ * : ゚ · 🔭
+
 <div align="center">
-  <div align="center">
   <img src="https://img.shields.io/badge/Python-10002B?style=for-the-badge&logo=python&logoColor=48CAE4" />
   <img src="https://img.shields.io/badge/C%2B%2B-10002B?style=for-the-badge&logo=cplusplus&logoColor=C77DFF" />
-  <img src="https://img.shields.io/badge/Jupyter Notebook-10002B?style=for-the-badge&logo=jupyter&logoColor=FF70A6" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-10002B?style=for-the-badge&logo=jupyter&logoColor=FF70A6" />
+  <img src="https://img.shields.io/badge/Google_Colab-10002B?style=for-the-badge&logo=googlecolab&logoColor=48CAE4" />
+</div>
 
 ---
 
@@ -32,14 +34,11 @@
 ![Status](https://img.shields.io/badge/Status-Connected-00F0FF?style=for-the-badge&logo=github)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=0D1117" alt="Cosmic Stats" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mayavichatterjee1710&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=0D1117" alt="Cosmic Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayavichatterjee1710&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=0D1117" alt="Stellar Languages" />
+</div>
 
 ---
 <div align="center">
   <sub>Ad astra per aspera · See you out in the void 🚀</sub>
 </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=0D1117" alt="Stellar Languages" />
-  </div>
-</div>
-
