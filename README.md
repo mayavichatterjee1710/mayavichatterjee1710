@@ -1,9 +1,6 @@
 <div align="center">
-  <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&duration=4000&pause=2000&color=C77DFF&center=true&vCenter=true&width=600&lines=Translating+starlight+into+software...;Exploring+the+cosmic+web+through+code...;Lost+in+deep+space+data+and+simulations..." alt="Dreamy Space Banner" />
-  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Sacramento&weight=600&size=38&height=80&duration=4000&pause=2000&color=FF70A6&center=true&vCenter=true&width=700&lines=Translating+starlight+into+software...;Exploring+the+cosmic+web+through+code...;Lost+in+deep+space+data+and+simulations..." alt="Sacramento Pink Banner" />
 </div>
-
 ---
 
 ### 🌌 · ゚ : * ✧ ORBITAL COORDINATES ✧ * : ゚ · 🌌
