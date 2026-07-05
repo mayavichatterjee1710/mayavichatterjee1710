@@ -21,6 +21,8 @@
 </div>
 
 ---
+<p align="left">
+  <img src="https://images.unsplash.com/photo-1506318137071-a8e063b4aec0?q=80&w=200&h=200&auto=format&fit=crop" align="right" width="120" style="margin-left: 15px; border-radius: 50%;">
 
 ### ☄️ · ゚ : * ✧ DEEP SPACE LOGS (Recent Activity) ✧ * : ゚ · ☄️
 * ✦ Currently exploring data modelling and simulation frameworks.
