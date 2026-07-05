@@ -35,7 +35,20 @@
 ### 🪐 · ゚ : * ✧ TELEMETRY & METRICS ✧ * : ゚ · 🪐
 <div align="center">
   <div align="center">
+  <!-- Overall GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=0D1117" alt="Cosmic Stats" />
+  
+  <br><br>
+  
+  <!-- Top Languages Used -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=0D1117" alt="Stellar Languages" />
+</div>
+</div>
+
+---
+<div align="center">
+  <sub>Ad astra per aspera · See you out in the void 🚀</sub>
+</div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=0D1117" alt="Stellar Languages" />
   </div>
 </div>
