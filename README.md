@@ -18,7 +18,7 @@
   <div align="center">
   <img src="https://img.shields.io/badge/Python-10002B?style=for-the-badge&logo=python&logoColor=48CAE4" />
   <img src="https://img.shields.io/badge/C%2B%2B-10002B?style=for-the-badge&logo=cplusplus&logoColor=C77DFF" />
-  <img src="https://img.shields.io/badge/Jupyter-10002B?style=for-the-badge&logo=jupyter&logoColor=FF70A6" />
+  <img src="https://img.shields.io/badge/Jupyter+Notebook-10002B?style=for-the-badge&logo=jupyter&logoColor=FF70A6" />
   <img src="https://img.shields.io/badge/Linux-10002B?style=for-the-badge&logo=linux&logoColor=E0FBFC" />
   </div>
 </div>
